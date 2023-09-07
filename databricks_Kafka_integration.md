@@ -7,7 +7,7 @@ Author: Alexander Lee
 
 ## Content
 [**Purpose**][Purpose]<br>
-[**Creating a Virtual Network and Subnets**](#Creating a Virtual network)<br>
+[**Creating a Virtual Network and Subnets**](#Creating_a_Virtual_network)<br>
 [**Creating a Databricks Service and WorkSpace**](#Creating-a-Databricks-Service-and-WorkSpace)<br>
 [**Creating a HDInsight Kafka Cluster**](#Creating_a_HDInsight_Kafka_Cluster)<br>
 [**Kafka Topic creation and messaging**](#Kafka_Topic_creation_and_messaging)<br>
