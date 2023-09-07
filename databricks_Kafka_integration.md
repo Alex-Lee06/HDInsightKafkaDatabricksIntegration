@@ -13,7 +13,7 @@ Author: Alexander Lee
 [**Kafka Topic creation and messaging**](#Kafka_Topic_creation_and_messaging)<br>
 [**Databricks Notebook and Code**](#Databricks_Notebook_and_Code)
 
-## Prerequestise
+## Prerequisite
 1. Virtual Network
 2. Azure Databricks 
 3. HDInsight Kafka cluster
