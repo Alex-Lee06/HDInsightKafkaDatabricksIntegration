@@ -7,7 +7,7 @@ Author: Alexander Lee
 
 ## Content
 [**Purpose**][Purpose]<br>
-[**Creating a Virtual Network and Subnets**](#Creating_a_Virtual_network)<br>
+[**Creating a Virtual Network and Subnets**](#Creating_a_Virtual_Network_and_Subnets)<br>
 [**Creating a Databricks Service and WorkSpace**](#Creating-a-Databricks-Service-and-WorkSpace)<br>
 [**Creating a HDInsight Kafka Cluster**](#Creating_a_HDInsight_Kafka_Cluster)<br>
 [**Kafka Topic creation and messaging**](#Kafka_Topic_creation_and_messaging)<br>
@@ -20,7 +20,7 @@ Author: Alexander Lee
 4. Databricks Notebook
 5. Scala code
 
-## Creating a Virtual network
+## Creating a Virtual Network and Subnets
 [**Back to Content**](#content)
 
 >A virtual network is needed so that communication between HDInsight and Databricks can be achieved.  In this How-To-Guide we will create 1 Virtual network and attach this to both the HDInsight cluster and Azure Databricks.
